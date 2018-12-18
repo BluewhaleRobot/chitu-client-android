@@ -10,7 +10,9 @@
     "downloadpdf",
     "yahei",
     "katex",
-    "-search"
+    "search",
+    "anchor-navigation-ex",
+    "-live-reload"
   ],
   "pluginsConfig": {
     "github": {
