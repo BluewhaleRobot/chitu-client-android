@@ -6,4 +6,8 @@
 
 [送餐机器人版本](https://bwbot.org/s/t8TsMJ)
 
+![送餐机器人版本](./imgs/app1.png)
+
 [小强版本](https://bwbot.org/s/p85dsw)
+
+![小强版本](./imgs/app2.png)
