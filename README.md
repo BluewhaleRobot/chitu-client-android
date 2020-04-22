@@ -8,6 +8,12 @@
 
 ![送餐机器人版本](./imgs/app1.png)
 
+[送餐机器人版本2](https://bwbot.org/s/yCgoNn)
+
+版本2的app增加了一次送多个目的地功能。此app需要送餐机器人程序更新之后才能正常使用。机器人更新可以在打开机器人Windows客户端后点击客户端中的更新机器人按钮。
+
+![送餐机器人版本2](./imgs/app3.png)
+
 [小强版本](https://bwbot.org/s/p85dsw)
 
 ![小强版本](./imgs/app2.png)
